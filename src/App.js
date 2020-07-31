@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
-import Homepage from "./homepage-component";
+import Homepage from "./pages/homepage/homepage.components";
+//comments added
 function App() {
   return (
     <div>
